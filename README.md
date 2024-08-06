@@ -1,1 +1,5 @@
-# SPAAMSummerSchoolJust an example repo
+# SPAAMSummerSchool
+
+Just an example repo
+
+Yeii
